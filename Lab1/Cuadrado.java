@@ -1,5 +1,5 @@
 
-
+//hola 
 public class Cuadrado{
 	//atributos del cuadrado
 	public float lado;
